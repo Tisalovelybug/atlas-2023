@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "Munna (Pokemon)",
+	"description": "A small custom Munna sprite placed and maintained by a handful of Place Australia members",
+	"links": {
+		"website": [
+			"https://discord.gg/sx2yWr9t"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1414,
+				307
+			],
+			[
+				-1410,
+				307
+			],
+			[
+				-1407,
+				313
+			],
+			[
+				-1410,
+				316
+			],
+			[
+				-1417,
+				312
+			],
+			[
+				-1417,
+				309
+			],
+			[
+				-1414,
+				307
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1412,
+			311
+		]
+	}
+}
